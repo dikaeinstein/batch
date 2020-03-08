@@ -1,2 +1,3 @@
-# batch
-A tiny package to handle batch operation
+# Batch
+
+A tiny package to handle batch operation.
